@@ -1,0 +1,37 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<title>module 2</title>
+<meta charset="utf">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+
+<body>
+<h1> OUR MENU </h1>
+
+<div class="id">
+
+<div class="col-lg-4 col-md-6 col-xs-12">
+	 <div class="Chicken"><h2>Chicken</h2> <p> lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+	 </p></div>
+</div>
+
+
+<div class= "col-lg-4 col-md-6 col-xs-12">
+     <div class="Beef"><h2>Beef</h2> <p>lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      </p></div>
+</div>
+
+
+<div class="col-lg-4 col-md-12 col-xs-12">
+     <div class="Sushi"><h2>Sushi</h2> <p>lorem ipsum dolor amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      </p></div>
+</div>
+
+</div>
+
+
+</body>
+</html>
